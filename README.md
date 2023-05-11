@@ -9,7 +9,7 @@ variation; (2) Multi-level Semantic Alignment, which leverages a proposed Semant
 
 ![CMAP](fig/fra_final_final_00.png)
 
-## Proposed Model (MSN-BRR)
+## Proposed Model (DCEL)
 * Bidirectional Evidential Learning
 * Multi-level Semantic Alignment
 * Cross-modal Relation Learning
